@@ -1,0 +1,23 @@
+
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code settings
+.vscode/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.log
